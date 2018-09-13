@@ -28,5 +28,6 @@
 > 자기 원하는 글꼴(ttf)파일 (예 : 나눔고딕등)을
 마인이메이터폴더\Data\에 넣어
 opensans.ttf와 opensansbold.ttf이름으로 변경합니다.
+
 ### 마인이메이터 언어선택
 [![](https://yeoj34760.github.io/Mine-imator_korean_patch/gif/patch.gif)](https://yeoj34760.github.io/Mine-imator_korean_patch/gif/patch.gif)
