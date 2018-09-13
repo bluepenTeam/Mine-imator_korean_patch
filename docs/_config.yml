@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+baseurl: /
+title: 마인이메이터 한글패치
+branch: master
